@@ -4,15 +4,9 @@ A live, responsive weather dashboard built using **React.js (Vite)** and **OpenW
 
 ---
 
-## ✅ GitHub Repository Link
+## ✅ Screenshots 
 
-👉 [https://github.com/your-username/weathlytics](https://github.com/your-username/weathlytics)
-
----
-
-## ✅ Screenshots / Loom Video (Optional)
-
-- ![Screenshot](./public/Screenshot 2025-04-09 022402)
+- ![Screenshot](./public/Screenshot%202025-04-09%20022402.png)
 
 ---
 
